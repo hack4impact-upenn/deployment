@@ -1,0 +1,7 @@
+.env
+.pmtl.env
+*.terraform
+terraform.tfstate
+terraform.tfstate.backup
+pmtl/terraform.tfstate
+pmtl/terraform.tfstate.backup
